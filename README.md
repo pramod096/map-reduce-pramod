@@ -16,3 +16,5 @@
 
 ## Summary:
 - By examining the final output, we can understand the ***growth of Netflix*** in recent years, due to improvements in the Technology and access to Internet. More the ***80%*** of Netflix content was released in the last ***5 years***.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Chart](images/netflix_shows.PNG)
